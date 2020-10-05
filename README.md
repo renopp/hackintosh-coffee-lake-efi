@@ -1,5 +1,7 @@
 # Hackintosh EFI Coffe lake
 
+![alt text](https://github.com/renopp/hackintosh-efi/blob/main/thumbnail.png)
+
 PC Specs | Information
 ----------- | -----------
 Processor | Intel Core i7 8700
@@ -10,6 +12,7 @@ Memory | Adata DDR4 XPG Spectrix 2666Mhz 16GB
 Storage | Samsung SSD 970 EVO M.2 250GB
 Wireless USB | Archer T2U Plus
 Bootloader | OpenCore 0.6.1
+Monitor | ViewSonic VX3276-2K-mhd
 
 ## Result:
 - Shutdown ✅
