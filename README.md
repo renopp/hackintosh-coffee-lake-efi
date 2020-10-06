@@ -1,4 +1,4 @@
-# Hackintosh EFI Coffe lake
+# Hackintosh EFI Coffee lake
 
 ![alt text](https://github.com/renopp/hackintosh-efi/blob/main/thumbnail.png)
 
