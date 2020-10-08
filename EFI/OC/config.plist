@@ -423,6 +423,8 @@
 		</array>
 		<key>Emulate</key>
 		<dict>
+			<key>DummyPowerManagement</key>
+			<false />
 			<key>Cpuid1Data</key>
 			<data></data>
 			<key>Cpuid1Mask</key>
@@ -652,7 +654,7 @@
 			<true/>
 			<key>DisableRtcChecksum</key>
 			<false/>
-			<key>DummyPowerManagement</key>
+			<key>LegacyCommpage</key>
 			<false/>
 			<key>ExternalDiskIcons</key>
 			<false/>
@@ -877,10 +879,12 @@
 		<true/>
 		<key>Generic</key>
 		<dict>
+			<key>SystemMemoryStatus</key>
+			<string>Auto</string>
 			<key>AdviseWindows</key>
 			<false/>
 			<key>MLB</key>
-			<string>C02930303GULNV98C</string>
+			<string>C029057014NLNV9UE</string>
 			<key>ROM</key>
 			<data>ESIzRFVm</data>
 			<key>SpoofVendor</key>
@@ -888,9 +892,9 @@
 			<key>SystemProductName</key>
 			<string>iMac19,1</string>
 			<key>SystemSerialNumber</key>
-			<string>C02Z4NZDJV3Q</string>
+			<string>C02Y602NJV3Q</string>
 			<key>SystemUUID</key>
-			<string>D67BC7E9-8893-498A-9581-490C911E1E05</string>
+			<string>6DB125DC-3DA7-42AD-B92E-B3127301BC4B</string>
 		</dict>
 		<key>UpdateDataHub</key>
 		<true/>
