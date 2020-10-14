@@ -5,11 +5,10 @@
 ## How to fix Issue
 
 - Fix Wake Up / Sleep Issue after sleep
+1. Go to Preference - Energy Saver
+2. Disable PowerNap and set turn off display 1 min
 
-  1. Go to Preference - Energy Saver
-  2. Disable PowerNap and set turn off display 1 min
-
-## Build 1
+## Build 1 Used By [@renopp](https://github.com/renopp)
 
 | PC Specs            | Information                          |
 | ------------------- | ------------------------------------ |
@@ -27,13 +26,13 @@
 
 - Shutdown ✅
 - Restart ✅
-- Sleep (can't wake up) ❌
+- Sleep ✅
 - Update OTA ✅
 - Ethernet (untested) ⚠️
 
 ---
 
-## Build 2
+## Build 2 Used By [@GeuntaBuwono](https://github.com/GeuntaBuwono)
 
 | PC Specs            | Information                                   |
 | ------------------- | --------------------------------------------- |
@@ -57,6 +56,4 @@
 - Develop iOS App (Xcode) with Real Device (iPhone XR) ✅
 
 ### Issue
-
-- Sleep (can't wake up) ❌
 - Build in Wi-Fi Aorus Master ❌
