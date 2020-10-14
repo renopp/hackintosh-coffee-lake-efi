@@ -19,7 +19,7 @@
 | Memory              | Adata DDR4 XPG Spectrix 2666Mhz 16GB |
 | Storage             | Samsung SSD 970 EVO M.2 250GB        |
 | Wireless USB        | Archer T2U Plus                      |
-| Bootloader          | OpenCore 0.6.1                       |
+| Bootloader          | OpenCore 0.6.2                       |
 | Monitor             | ViewSonic VX3276-2K-mhd              |
 
 ### Result:
