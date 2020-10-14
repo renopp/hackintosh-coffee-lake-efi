@@ -21,6 +21,7 @@
 | Wireless USB        | Archer T2U Plus                      |
 | Bootloader          | OpenCore 0.6.2                       |
 | Monitor             | ViewSonic VX3276-2K-mhd              |
+| Headphone           | dbE GM500                            |
 
 ### Result:
 
