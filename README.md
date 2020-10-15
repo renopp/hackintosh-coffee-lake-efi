@@ -58,3 +58,28 @@
 
 ### Issue
 - Build in Wi-Fi Aorus Master ❌
+
+---
+
+## Build 3 Used By [@99ridho](https://github.com/99ridho)
+
+| PC Specs            | Information                          |
+| ------------------- | ------------------------------------ |
+| Processor           | Intel Core i7 9700K                  |
+| Integrated Graphics | Intel UHD 630                        |
+| CPU Cooler          | be quiet! Dark Rock 4                |
+| Motherboard         | Gigabyte Intel Z390 Aorus Elite      |
+| Memory              | Adata DDR4 XPG Gammix 3000Mhz 32GB   |
+| Storage             | Adata SX6000LNP M.2 250GB            |
+| Wireless USB        | Archer T2U Plus                      |
+| Bootloader          | OpenCore 0.6.2                       |
+| Monitor             | Philips 223V                         |
+| Headphone           | dbE GM350                            |
+
+### Result:
+
+- Shutdown ✅
+- Restart ✅
+- Sleep ✅
+- Update OTA (untested)
+- Ethernet ✅ 
