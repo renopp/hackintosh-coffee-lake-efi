@@ -71,10 +71,10 @@
 | Motherboard         | Gigabyte Intel Z390 Aorus Elite      |
 | Memory              | Adata DDR4 XPG Gammix 3000Mhz 32GB   |
 | Storage             | Adata SX6000LNP M.2 250GB            |
-| Wireless USB        | Archer T2U Plus                      |
+| Wireless Card       | BCM943602CS PCI-E                    |
 | Bootloader          | OpenCore 0.6.2                       |
-| Monitor             | Philips 223V                         |
-| Headphone           | dbE GM350                            |
+| Monitor             | MSI Optix G241                       |
+| Headphone           | HyperX Cloud Alpha S                 |
 
 ### Result:
 
@@ -83,3 +83,6 @@
 - Sleep ✅
 - Update OTA (untested)
 - Ethernet ✅ 
+- Bluetooth ✅
+- Wifi ✅
+- Continuity (Airdrop, Call, etc) ✅
