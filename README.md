@@ -5,8 +5,14 @@
 ## How to fix Issue
 
 - Fix Wake Up / Sleep Issue after sleep
+
 1. Go to Preference - Energy Saver
 2. Disable PowerNap and set turn off display 1 min
+
+## How to use this EFI
+
+- please generate `CHANGE_ME` from `config.plist` to your own generated code.
+- this EFI use USBInjectAll if you want to feel real USB 3.0 you can map your USB port with [USBMap](https://github.com/corpnewt/USBMap) and change enable key from `config.plist` `Kernel > Add > USBMap.kext` and disable `Kernel > Add > USBInjectAll.kext`
 
 ## Build 1 Used By [@renopp](https://github.com/renopp)
 
@@ -57,24 +63,25 @@
 - Develop iOS App (Xcode) with Real Device (iPhone XR) ✅
 
 ### Issue
+
 - Build in Wi-Fi Aorus Master ❌
 
 ---
 
 ## Build 3 Used By [@99ridho](https://github.com/99ridho)
 
-| PC Specs            | Information                          |
-| ------------------- | ------------------------------------ |
-| Processor           | Intel Core i7 9700K                  |
-| Integrated Graphics | Intel UHD 630                        |
-| CPU Cooler          | be quiet! Dark Rock 4                |
-| Motherboard         | Gigabyte Intel Z390 Aorus Elite      |
-| Memory              | Adata DDR4 XPG Gammix 3000Mhz 32GB   |
-| Storage             | Adata SX6000LNP M.2 250GB            |
-| Wireless Card       | BCM943602CS PCI-E                    |
-| Bootloader          | OpenCore 0.6.2                       |
-| Monitor             | MSI Optix G241                       |
-| Headphone           | HyperX Cloud Alpha S                 |
+| PC Specs            | Information                        |
+| ------------------- | ---------------------------------- |
+| Processor           | Intel Core i7 9700K                |
+| Integrated Graphics | Intel UHD 630                      |
+| CPU Cooler          | be quiet! Dark Rock 4              |
+| Motherboard         | Gigabyte Intel Z390 Aorus Elite    |
+| Memory              | Adata DDR4 XPG Gammix 3000Mhz 32GB |
+| Storage             | Adata SX6000LNP M.2 250GB          |
+| Wireless Card       | BCM943602CS PCI-E                  |
+| Bootloader          | OpenCore 0.6.2                     |
+| Monitor             | MSI Optix G241                     |
+| Headphone           | HyperX Cloud Alpha S               |
 
 ### Result:
 
@@ -82,7 +89,7 @@
 - Restart ✅
 - Sleep ✅
 - Update OTA (untested)
-- Ethernet ✅ 
+- Ethernet ✅
 - Bluetooth ✅
 - Wifi ✅
 - Continuity (Airdrop, Call, etc) ✅
